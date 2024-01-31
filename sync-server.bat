@@ -7,8 +7,8 @@ if "%1" == "stop" (
 
 rem Esegue il push dei file sul repository GitHub.
 git add .
-git commit -m " %datestamp% Sync server file"
-git push origin master
+git commit -m " %DATE% Sync server file"
+git push
 
 ) else (
 
