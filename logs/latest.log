@@ -1,34 +1,91 @@
-[20:47:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:47:16] [ServerMain/INFO]: Loaded 7 recipes
-[20:47:16] [ServerMain/INFO]: Loaded 1271 advancements
-[20:47:16] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:47:16] [Server thread/INFO]: Loading properties
-[20:47:16] [Server thread/INFO]: Default game type: SURVIVAL
-[20:47:16] [Server thread/INFO]: Generating keypair
-[20:47:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:47:17] [Server thread/INFO]: Using default channel type
-[20:47:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:47:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:47:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:47:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:47:17] [Server thread/INFO]: Preparing level "MineWithBros"
-[20:47:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:47:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:47:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:47:19] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[20:47:19] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[20:47:19] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[20:47:20] [Worker-Main-9/INFO]: Preparing spawn area: 19%
-[20:47:20] [Server thread/INFO]: Time elapsed: 2873 ms
-[20:47:20] [Server thread/INFO]: Done (3.514s)! For help, type "help"
-[20:47:30] [Server thread/INFO]: Stopping the server
-[20:47:30] [Server thread/INFO]: Stopping server
-[20:47:30] [Server thread/INFO]: Saving players
-[20:47:30] [Server thread/INFO]: Saving worlds
-[20:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:overworld
-[20:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_nether
-[20:47:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_end
-[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (MineWithBros): All chunks are saved
-[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:47:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:55:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:55:48] [ServerMain/INFO]: Loaded 7 recipes
+[21:55:48] [ServerMain/INFO]: Loaded 1271 advancements
+[21:55:48] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[21:55:48] [Server thread/INFO]: Loading properties
+[21:55:48] [Server thread/INFO]: Default game type: SURVIVAL
+[21:55:48] [Server thread/INFO]: Generating keypair
+[21:55:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:55:48] [Server thread/INFO]: Using default channel type
+[21:55:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:55:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:55:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:55:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:55:49] [Server thread/INFO]: Preparing level "MineWithBros"
+[21:55:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:55:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:55:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:55:52] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[21:55:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:52] [Server thread/INFO]: Time elapsed: 2964 ms
+[21:55:52] [Server thread/INFO]: Done (3.608s)! For help, type "help"
+[21:56:01] [Server thread/INFO]: ClownPsyco[/192.168.1.1:33466] logged in with entity id 100 at (-160.8364697404284, 63.0, -487.6105261697848)
+[21:56:01] [Server thread/INFO]: ClownPsyco joined the game
+[21:56:25] [Server thread/INFO]: ClownPsyco lost connection: Disconnected
+[21:56:25] [Server thread/INFO]: ClownPsyco left the game
+[21:59:38] [Server thread/INFO]: ClownPsyco[/192.168.1.1:33777] logged in with entity id 329 at (-162.22643105307694, 63.0, -487.5922453027534)
+[21:59:38] [Server thread/INFO]: ClownPsyco joined the game
+[22:02:19] [Server thread/INFO]: ClownPsyco lost connection: Disconnected
+[22:02:19] [Server thread/INFO]: ClownPsyco left the game
+[22:03:52] [Server thread/INFO]: ClownPsyco[/192.168.1.1:34157] logged in with entity id 792 at (-156.8546905764715, 63.0, -488.69554662847867)
+[22:03:52] [Server thread/INFO]: ClownPsyco joined the game
+[22:32:28] [Server thread/INFO]: Spez[/217.201.214.185:31001] logged in with entity id 8807 at (14.5, 73.0, -52.5)
+[22:32:28] [Server thread/INFO]: Spez joined the game
+[22:32:49] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=4, y=67, z=-66} hx{x=1, y=67, z=-62}
+[22:32:49] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=4, y=67, z=-66} hx{x=0, y=67, z=-63}
+[22:32:49] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=4, y=67, z=-66} hx{x=0, y=67, z=-61}
+[22:32:49] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=4, y=67, z=-66} hx{x=0, y=67, z=-61}
+[22:32:57] [Server thread/INFO]: [ClownPsyco: Teleported Spez to ClownPsyco]
+[22:35:54] [Server thread/INFO]: Spez has made the advancement [Stone Age]
+[22:36:03] [Server thread/INFO]: Spez has made the advancement [Getting an Upgrade]
+[22:39:45] [Server thread/INFO]: [Not Secure] <ClownPsyco> notteeeee
+[22:39:55] [Server thread/INFO]: Spez has made the advancement [Sweet Dreams]
+[22:42:09] [Server thread/INFO]: Kowalskik[/93.66.246.202:49867] logged in with entity id 11119 at (21.5, 66.0, -47.5)
+[22:42:09] [Server thread/INFO]: Kowalskik joined the game
+[22:42:22] [Server thread/INFO]: [ClownPsyco: Teleported Kowalskik to ClownPsyco]
+[22:45:01] [Server thread/INFO]: Kowalskik lost connection: Disconnected
+[22:45:01] [Server thread/INFO]: Kowalskik left the game
+[22:51:24] [Server thread/INFO]: Kowalskik[/93.66.246.202:50910] logged in with entity id 12728 at (-154.68337601403917, 63.5625, -487.4170455205518)
+[22:51:24] [Server thread/INFO]: Kowalskik joined the game
+[22:51:27] [Server thread/INFO]: Kowalskik lost connection: Disconnected
+[22:51:27] [Server thread/INFO]: Kowalskik left the game
+[22:51:44] [Server thread/INFO]: [Not Secure] <ClownPsyco> notteee
+[22:51:46] [Server thread/INFO]: [Not Secure] <ClownPsyco> nottte
+[22:51:48] [Server thread/INFO]: [Not Secure] <ClownPsyco> notteee
+[22:56:26] [Server thread/INFO]: Kowalskik[/93.66.246.202:52123] logged in with entity id 13573 at (-154.68337601403917, 63.5625, -487.4170455205518)
+[22:56:26] [Server thread/INFO]: Kowalskik joined the game
+[22:57:40] [Server thread/INFO]: Kowalskik has made the advancement [Acquire Hardware]
+[22:57:49] [Server thread/INFO]: Kowalskik has made the advancement [Isn't It Iron Pick]
+[22:58:08] [Server thread/INFO]: Spez has made the advancement [Acquire Hardware]
+[22:58:19] [Server thread/INFO]: Spez has made the advancement [Isn't It Iron Pick]
+[22:59:53] [Server thread/INFO]: Kowalskik has made the advancement [Stone Age]
+[23:03:29] [Server thread/INFO]: Spez has made the advancement [Monster Hunter]
+[23:03:47] [Server thread/INFO]: Kowalskik has made the advancement [Monster Hunter]
+[23:06:17] [Server thread/INFO]: Kowalskik has made the advancement [Diamonds!]
+[23:11:09] [Server thread/INFO]: Spez drowned
+[23:11:15] [Server thread/INFO]: Kowalskik has made the advancement [Sweet Dreams]
+[23:12:41] [Server thread/INFO]: ClownPsyco has made the advancement [A Seedy Place]
+[23:15:32] [Server thread/INFO]: Spez has made the advancement [Diamonds!]
+[23:26:20] [Server thread/INFO]: [ClownPsyco: Banned Kowalskik: Banned by an operator.]
+[23:26:20] [Server thread/INFO]: Kowalskik lost connection: You are banned from this server
+[23:26:20] [Server thread/INFO]: Kowalskik left the game
+[23:27:01] [Server thread/INFO]: [ClownPsyco: Unbanned Kowalskik]
+[23:27:33] [Server thread/INFO]: Spez lost connection: Disconnected
+[23:27:33] [Server thread/INFO]: Spez left the game
+[23:36:04] [Server thread/INFO]: ClownPsyco has made the advancement [Take Aim]
+[23:36:55] [Server thread/INFO]: ClownPsyco has made the advancement [Fishy Business]
+[23:50:09] [Server thread/INFO]: ClownPsyco lost connection: Disconnected
+[23:50:09] [Server thread/INFO]: ClownPsyco left the game
+[23:50:20] [Server thread/INFO]: Stopping the server
+[23:50:20] [Server thread/INFO]: Stopping server
+[23:50:20] [Server thread/INFO]: Saving players
+[23:50:20] [Server thread/INFO]: Saving worlds
+[23:50:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:overworld
+[23:50:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_end
+[23:50:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_nether
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (MineWithBros): All chunks are saved
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:50:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -7,12 +7,12 @@ if "%1" == "stop" (
 
 rem Esegue il push dei file sul repository GitHub.
 git add .
-git commit -m " %DATE% Sync server file"
+git commit -m " %DATE% %TIME% Sync server file"
 git push
 
 ) else (
 
 rem Aggiorna i file locali con l'ultima versione dal repository GitHub.
-git pull origin master
+git pull
 java -jar .\minecraft_server.1.20.4.jar --nogui
 )
