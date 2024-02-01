@@ -1,6 +1,6 @@
 @echo off
 
-rem Questo file batch esegue il push dei file del server Minecraft su GitHub quando il server viene spento e aggiorna i file locali con l'ultima versione quando il server viene avviato.
+rem This batch file pushes the Minecraft server files to GitHub when the server is down and updates the local files with the latest version when the server is starting up.
 
 rem Update the repository with the server down
 if "%1" == "push" (
