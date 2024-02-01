@@ -2241,51 +2241,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
     "criteria": {
-      "has_mud_bricks": "2024-01-31 22:11:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-01-31 23:36:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2024-01-31 22:12:00 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2024-01-31 22:11:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2024-01-31 23:36:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-01-31 23:36:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2024-01-31 22:11:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-01-31 23:36:08 +0100"
+      "has_blue_terracotta": "2024-01-31 22:09:41 +0100"
     },
     "done": true
   },
@@ -2295,21 +2253,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
-      "has_salmon": "2024-01-31 23:36:08 +0100"
+      "has_mud_bricks": "2024-01-31 22:11:31 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
-      "has_wood_slab": "2024-01-31 22:44:03 +0100"
+      "has_mud_bricks": "2024-01-31 22:11:31 +0100"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
-      "shot_arrow": "2024-01-31 23:36:04 +0100"
+      "has_mud_bricks": "2024-01-31 22:11:31 +0100"
     },
     "done": true
   },
@@ -2331,15 +2289,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "has_cod": "2024-01-31 23:36:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-01-31 23:16:22 +0100"
+      "has_yellow_terracotta": "2024-01-31 22:12:00 +0100"
     },
     "done": true
   },
@@ -2349,27 +2301,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-01-31 23:12:41 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-01-31 22:24:26 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_cod": "2024-01-31 23:36:55 +0100"
+      "has_wood_slab": "2024-01-31 22:44:03 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_blue_terracotta": "2024-01-31 22:09:41 +0100"
+      "wheat": "2024-01-31 23:12:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-01-31 23:16:22 +0100"
     },
     "done": true
   },
@@ -2382,6 +2334,108 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-01-31 23:16:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-01-31 23:36:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-01-31 23:36:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-01-31 23:36:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-01-31 23:36:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-01-31 23:36:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-01-31 23:36:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-01-31 23:36:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-01-31 23:36:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-02-01 19:22:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-02-01 19:15:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-02-01 18:45:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-02-01 19:17:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-02-01 19:08:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-02-01 19:15:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-02-01 18:45:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-02-01 18:45:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-02-01 18:45:56 +0100"
     },
     "done": true
   },
