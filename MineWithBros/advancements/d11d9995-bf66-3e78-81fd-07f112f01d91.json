@@ -497,7 +497,8 @@
       "minecraft:spider": "2024-01-30 22:38:03 +0100",
       "minecraft:zombie": "2024-01-30 22:34:23 +0100",
       "minecraft:creeper": "2024-01-31 16:23:48 +0100",
-      "minecraft:drowned": "2024-01-31 22:57:43 +0100"
+      "minecraft:drowned": "2024-01-31 22:57:43 +0100",
+      "minecraft:zombie_villager": "2024-02-07 22:17:32 +0100"
     },
     "done": false
   },
@@ -2608,6 +2609,26 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-02-03 00:44:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-02-07 22:25:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-02-07 22:00:56 +0100",
+      "minecraft:chicken": "2024-02-07 21:37:36 +0100",
+      "minecraft:sheep": "2024-02-07 21:51:32 +0100"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-02-07 21:37:36 +0100"
     },
     "done": true
   },
