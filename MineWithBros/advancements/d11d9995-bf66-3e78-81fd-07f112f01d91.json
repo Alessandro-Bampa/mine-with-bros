@@ -495,6 +495,7 @@
       "minecraft:pillager": "2024-02-03 00:43:54 +0100",
       "minecraft:skeleton": "2024-01-31 16:45:56 +0100",
       "minecraft:enderman": "2024-02-09 19:41:17 +0100",
+      "minecraft:stray": "2024-02-10 14:52:10 +0100",
       "minecraft:spider": "2024-01-30 22:38:03 +0100",
       "minecraft:zombie": "2024-01-30 22:34:23 +0100",
       "minecraft:creeper": "2024-01-31 16:23:48 +0100",
@@ -3104,6 +3105,54 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-02-08 23:24:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-02-10 14:47:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-02-10 14:46:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-02-10 14:54:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-02-10 14:46:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-02-10 14:48:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-02-10 14:47:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-02-10 14:54:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-02-10 14:48:22 +0100"
     },
     "done": true
   },
