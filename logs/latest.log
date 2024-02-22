@@ -1,45 +1,51 @@
-[20:48:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:48:03] [ServerMain/INFO]: Loaded 7 recipes
-[20:48:03] [ServerMain/INFO]: Loaded 1271 advancements
-[20:48:04] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[20:48:04] [Server thread/INFO]: Loading properties
-[20:48:04] [Server thread/INFO]: Default game type: SURVIVAL
-[20:48:04] [Server thread/INFO]: Generating keypair
-[20:48:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:48:04] [Server thread/INFO]: Using default channel type
-[20:48:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:48:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:48:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:48:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:48:04] [Server thread/INFO]: Preparing level "MineWithBros"
-[20:48:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:48:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:48:08] [Worker-Main-11/INFO]: Preparing spawn area: 54%
-[20:48:09] [Server thread/INFO]: Time elapsed: 4203 ms
-[20:48:09] [Server thread/INFO]: Done (4.865s)! For help, type "help"
-[20:48:11] [Server thread/INFO]: ClownPsyco[/192.168.1.1:37372] logged in with entity id 233 at (-115.69488439734734, 63.0, -456.7740071432416)
-[20:48:11] [Server thread/INFO]: ClownPsyco joined the game
-[20:57:16] [Server thread/INFO]: ClownPsyco has made the advancement [Ice Bucket Challenge]
-[21:13:41] [Server thread/INFO]: ClownPsyco has made the advancement [We Need to Go Deeper]
-[22:11:51] [Server thread/INFO]: ClownPsyco lost connection: Disconnected
-[22:11:51] [Server thread/INFO]: ClownPsyco left the game
-[22:11:55] [Server thread/INFO]: Saving the game (this may take a moment!)
-[22:11:55] [Server thread/INFO]: Saved the game
-[22:11:59] [Server thread/INFO]: Stopping the server
-[22:11:59] [Server thread/INFO]: Stopping server
-[22:11:59] [Server thread/INFO]: Saving players
-[22:11:59] [Server thread/INFO]: Saving worlds
-[22:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:overworld
-[22:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_end
-[22:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_nether
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (MineWithBros): All chunks are saved
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:33:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:33:11] [ServerMain/INFO]: Loaded 7 recipes
+[20:33:11] [ServerMain/INFO]: Loaded 1271 advancements
+[20:33:11] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[20:33:11] [Server thread/INFO]: Loading properties
+[20:33:11] [Server thread/INFO]: Default game type: SURVIVAL
+[20:33:11] [Server thread/INFO]: Generating keypair
+[20:33:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:33:11] [Server thread/INFO]: Using default channel type
+[20:33:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:33:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:33:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:33:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:33:11] [Server thread/INFO]: Preparing level "MineWithBros"
+[20:33:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:33:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:33:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:33:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:33:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:33:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:33:15] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:33:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:33:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[20:33:16] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[20:33:16] [Server thread/INFO]: Time elapsed: 4202 ms
+[20:33:16] [Server thread/INFO]: Done (4.840s)! For help, type "help"
+[20:33:48] [Server thread/INFO]: ClownPsyco[/192.168.1.1:52038] logged in with entity id 203 at (-95.794206396261, 65.0, -444.1120429858262)
+[20:33:48] [Server thread/INFO]: ClownPsyco joined the game
+[20:54:18] [Server thread/INFO]: ClownPsyco has made the advancement [Those Were the Days]
+[20:54:36] [Server thread/INFO]: ClownPsyco has made the advancement [War Pigs]
+[20:54:48] [Server thread/INFO]: ClownPsyco has made the advancement [Hidden in the Depths]
+[20:57:17] [Server thread/INFO]: ClownPsyco has made the advancement [Ol' Betsy]
+[21:13:53] [Server thread/INFO]: ClownPsyco lost connection: Disconnected
+[21:13:53] [Server thread/INFO]: ClownPsyco left the game
+[21:14:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:14:20] [Server thread/INFO]: SAVE-ALL<--[HERE]
+[21:14:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:14:29] [Server thread/INFO]: STOP<--[HERE]
+[21:14:33] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:14:33] [Server thread/INFO]: Saved the game
+[21:14:40] [Server thread/INFO]: Stopping the server
+[21:14:40] [Server thread/INFO]: Stopping server
+[21:14:40] [Server thread/INFO]: Saving players
+[21:14:40] [Server thread/INFO]: Saving worlds
+[21:14:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:overworld
+[21:14:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_end
+[21:14:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MineWithBros]'/minecraft:the_nether
+[21:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (MineWithBros): All chunks are saved
+[21:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
