@@ -508,6 +508,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-02-03 00:43:54 +0100",
+      "minecraft:blaze": "2024-03-02 18:57:35 +0100",
       "minecraft:skeleton": "2024-01-31 16:45:56 +0100",
       "minecraft:zombified_piglin": "2024-02-22 21:00:06 +0100",
       "minecraft:ghast": "2024-02-21 21:17:51 +0100",
@@ -515,6 +516,7 @@
       "minecraft:piglin": "2024-02-21 21:18:10 +0100",
       "minecraft:enderman": "2024-02-09 19:41:17 +0100",
       "minecraft:stray": "2024-02-10 14:52:10 +0100",
+      "minecraft:magma_cube": "2024-03-02 18:36:44 +0100",
       "minecraft:spider": "2024-01-30 22:38:03 +0100",
       "minecraft:piglin_brute": "2024-02-25 12:40:14 +0100",
       "minecraft:zombie": "2024-01-30 22:34:23 +0100",
@@ -3385,9 +3387,10 @@
       "minecraft:crimson_forest": "2024-02-25 15:00:02 +0100",
       "minecraft:nether_wastes": "2024-02-21 21:17:21 +0100",
       "minecraft:soul_sand_valley": "2024-02-21 21:13:42 +0100",
-      "minecraft:basalt_deltas": "2024-02-21 21:20:25 +0100"
+      "minecraft:basalt_deltas": "2024-02-21 21:20:25 +0100",
+      "minecraft:warped_forest": "2024-03-02 18:47:01 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
@@ -3794,6 +3797,60 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-02-25 15:23:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-03-02 18:57:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-03-02 19:00:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-03-02 18:34:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-03-02 18:57:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-03-02 18:48:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-03-02 18:48:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-03-02 19:00:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-03-02 18:56:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-03-02 18:57:01 +0100"
     },
     "done": true
   },
