@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-03-04 21:28:04 +0100",
       "minecraft:snowy_slopes": "2024-02-11 17:44:33 +0100",
       "minecraft:old_growth_pine_taiga": "2024-01-31 23:19:17 +0100",
       "minecraft:forest": "2024-01-30 22:26:07 +0100",
@@ -20,6 +21,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-01-31 23:16:26 +0100",
       "minecraft:flower_forest": "2024-02-11 17:44:49 +0100",
       "minecraft:savanna_plateau": "2024-02-11 17:46:50 +0100",
+      "minecraft:beach": "2024-03-04 21:26:38 +0100",
       "minecraft:dark_forest": "2024-02-11 17:34:13 +0100",
       "minecraft:sparse_jungle": "2024-02-11 17:47:16 +0100",
       "minecraft:river": "2024-01-30 22:26:17 +0100",
@@ -511,6 +513,7 @@
       "minecraft:blaze": "2024-03-02 18:57:35 +0100",
       "minecraft:skeleton": "2024-01-31 16:45:56 +0100",
       "minecraft:zombified_piglin": "2024-02-22 21:00:06 +0100",
+      "minecraft:wither_skeleton": "2024-03-03 21:45:17 +0100",
       "minecraft:ghast": "2024-02-21 21:17:51 +0100",
       "minecraft:hoglin": "2024-02-22 20:58:34 +0100",
       "minecraft:piglin": "2024-02-21 21:18:10 +0100",
@@ -3854,9 +3857,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:nether/use_lodestone": {
     "criteria": {
-      "diamond_boots": "2024-03-03 16:50:54 +0100"
+      "use_lodestone": "2024-03-03 15:55:49 +0100"
     },
     "done": true
   },
@@ -3872,9 +3875,39 @@
     },
     "done": true
   },
-  "minecraft:nether/use_lodestone": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "use_lodestone": "2024-03-03 15:55:49 +0100"
+      "diamond_boots": "2024-03-03 16:50:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-03-03 21:46:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-03-03 21:46:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-03 21:56:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-03 21:56:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-03-04 21:26:51 +0100"
     },
     "done": true
   },
