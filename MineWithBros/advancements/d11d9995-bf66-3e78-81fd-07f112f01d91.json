@@ -570,6 +570,7 @@
       "cooked_porkchop": "2024-01-30 23:02:01 +0100",
       "apple": "2024-02-01 21:25:28 +0100",
       "bread": "2024-01-31 15:18:10 +0100",
+      "golden_apple": "2024-03-05 21:27:23 +0100",
       "cooked_chicken": "2024-01-31 21:03:45 +0100",
       "cooked_mutton": "2024-01-30 22:36:46 +0100",
       "potato": "2024-01-31 22:32:49 +0100",
@@ -3908,6 +3909,24 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-03-04 21:26:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-03-05 20:25:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-03-05 20:25:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-03-05 20:25:35 +0100"
     },
     "done": true
   },
