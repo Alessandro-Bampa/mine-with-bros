@@ -3930,5 +3930,11 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2024-03-06 20:31:21 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
